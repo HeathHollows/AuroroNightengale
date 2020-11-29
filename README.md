@@ -2,7 +2,7 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on Destiny
+- 🔭 I’m currently working on NghtDev & Nodes.GG
 - 🌱 I’m currently coding Python
 - 😄 Pronouns: He/Them
 
