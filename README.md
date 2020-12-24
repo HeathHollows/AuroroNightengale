@@ -14,4 +14,4 @@
 - Discord Server Coming Soon
 - [Twitter](https://twitter.com/AuroroNghtngale)
 - [Instagram](https://instagram.com/auroro_nightengale)
-- [Email](mailto:me@hhollows.ga)
+- [Email](mailto:me@heathhollows.ga)
