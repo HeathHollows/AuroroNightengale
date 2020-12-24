@@ -2,9 +2,11 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on NghtDev & Nodes.GG
+- 🔭 I’m currently working on NghtDev Projects such as [Essex](https://nghtdev.cf/essex-website) and [Arren](https://nghtdev.cf/arren-website)
 - 🌱 I’m currently coding Python
 - 😄 Pronouns: He/Them
+- 💮 I currently help moderate [TopCord](https://topcord.xyz)
+- ♋ I am a Cancer
 
 ## Contact Me:
 
@@ -12,3 +14,4 @@
 - Discord Server Coming Soon
 - [Twitter](https://twitter.com/AuroroNghtngale)
 - [Instagram](https://instagram.com/auroro_nightengale)
+- [Email](mailto:me@hhollows.ga)
