@@ -1,4 +1,4 @@
-# Auroro Nightengale
+# Heath Hollows
 
 ## About Me:
 
@@ -12,8 +12,7 @@
 
 - [Discord User](https://discord.com/users/715520615896842302)
 - Discord Server Coming Soon
-- [Twitter](https://twitter.com/AuroroNghtngale)
-- [Instagram](https://instagram.com/auroro_nightengale)
+- [Twitter](https://twitter.com/HeathHollows)
 - [Email](mailto:me@heathhollows.ga)
 
 ## Stats
