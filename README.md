@@ -15,3 +15,6 @@
 - [Twitter](https://twitter.com/AuroroNghtngale)
 - [Instagram](https://instagram.com/auroro_nightengale)
 - [Email](mailto:me@heathhollows.ga)
+
+## Stats
+[![HeathHollows's github stats](https://github-readme-stats.vercel.app/api?username=HeathHollows)](https://github.com/anuraghazra/github-readme-stats)
