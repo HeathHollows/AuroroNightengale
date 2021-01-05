@@ -17,4 +17,4 @@
 - [Email](mailto:me@heathhollows.ga)
 
 ## Stats
-[![HeathHollows's github stats](https://github-readme-stats.vercel.app/api?username=HeathHollows)](https://github.com/anuraghazra/github-readme-stats)
+[![HeathHollows's github stats](https://github-readme-stats.vercel.app/api?username=HeathHollows&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
