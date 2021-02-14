@@ -2,10 +2,10 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on NghtDev Projects such as [Essex](https://nghtdev.cf/essex-website) and [Arren](https://nghtdev.cf/arren-website)
+- 🔭 I’m currently working on [DiscSec Services](https://discsec.com) and a Discord Bot named Eevee (not yet released).
 - 🌱 I’m currently coding Python
 - 😄 Pronouns: He/Them
-- 💮 I currently help moderate [TopCord](https://topcord.xyz)
+- 💮 I currently am the Operations Manager at [DiscSec](https://discsec.com), help moderate [TopCord](https://topcord.xyz), give support for [Zira](https://zira.bot), moderate [ModMail](https://modmail.xyz).
 - ♋ I am a Cancer
 
 ## Contact Me:
