@@ -2,18 +2,17 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on [DiscSec Services](https://discsec.com) and a Discord Bot named Eevee (not yet released).
+- 🔭 I’m currently a moderator for [Team Hydra](https://discord.gg/zira) and working on a Discord Bot named Eevee (not yet released).
 - 🌱 I’m currently coding Python
-- 😄 Pronouns: He/Them
-- 💮 I currently am the Operations Manager at [DiscSec](https://discsec.com), help moderate [TopCord](https://topcord.xyz), give support for [Zira](https://zira.bot), moderate [ModMail](https://modmail.xyz).
+- 😄 Pronouns: They/Them
+- 💮 I currently moderate for [Zira](https://zira.bot).
 - ♋ I am a Cancer
 
 ## Contact Me:
 
 - [Discord User](https://discord.com/users/715520615896842302)
-- Discord Server Coming Soon
-- [Twitter](https://twitter.com/HeathHollows)
+- [Twitter](https://twitter.com/RaiiPrime2003)
 - [Email](mailto:me@heathhollows.ga)
 
 ## Stats
-[![HeathHollows's github stats](https://github-readme-stats.vercel.app/api?username=HeathHollows&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![RaiiPrime's github stats](https://github-readme-stats.vercel.app/api?username=RaiiPrime&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
