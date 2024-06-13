@@ -1,7 +1,7 @@
 # RPrime
 
 ## About Me:
-Hello, I'm RPrime! I am a part-time Variety Streamer who is currently on break! I am a genderfluid non-binary. Hope you enjoy my content! (Pronouns: They/Them)
+A Nonbinary Disabled Individual with a passion for Mental Health, Computers and Video Games exploring the depths of themselves and forming meaningful bonds with their community!
 
 - ♋ I am a Cancer
 
